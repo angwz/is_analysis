@@ -27,7 +27,7 @@
 ## 2. 系统总体结构
 ![](alldesign.png)
 
-界面设计参见：https://github.com/angwz/is_analysis/tree/master/test6/ui/index.html
+界面设计参见：https://angwz.github.io/is_analysis/test6/ui/index.html
     
 ## 3. 用例图设计 [源码](src/UseCase.puml)
 ![](UseCase.png)
@@ -39,20 +39,20 @@
 - ### [参见数据库设计](./DatabaseDesign.md)
 
 ## 6. 用例及界面详细设计
-- ### [“登录”用例](./UseCase/登录.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/login.html)
-- ### [“教师选课”用例](./UseCase/教师选课.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/teaselectcourse.html)
-- ### [“查看课程库”用例](./UseCase/查看课程库.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/timetable.html)
-- ### [“学生选课”用例](./UseCase/学生选课.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/stuselectcourse.html)
-- ### [“学生列表”用例](./UseCase/学生列表.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/studentlist.html)
-- ### [“查看课表”用例](./UseCase/查看课表.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/sechedules.html)
-- ### [“发布实验”用例](./UseCase/发布实验.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/issuetest.html)
-- ### [“实验列表”用例](./UseCase/实验列表.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/timetable.html)
-- ### [“上传实验”用例](./UseCase/上传实验.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/uptest.html)
-- ### [“评分和维护成绩”用例](./UseCase/评分和维护成绩.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/grade.html)
-- ### [“查看成绩”用例](./UseCase/查看成绩.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/grade.html)
-- ### [“优秀作品”用例](./UseCase/优秀作品.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/issuetest.html)
-- ### [“修改密码”用例](./UseCase/修改密码.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/changepwd.html)
-- ### [“修改GitHub信息”用例](./UseCase/修改GitHub信息.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/changemes.html)
-- ### [“注销”用例](./UseCase/注销.md),[界面](https://github.com/angwz/is_analysis/tree/master/test6/ui/logout.html)
+- ### [“登录”用例](./UseCase/登录.md),[界面](https://angwz.github.io/is_analysis/test6/ui/login.html)
+- ### [“教师选课”用例](./UseCase/教师选课.md),[界面](https://angwz.github.io/is_analysis/test6/ui/teaselectcourse.html)
+- ### [“查看课程库”用例](./UseCase/查看课程库.md),[界面](https://angwz.github.io/is_analysis/test6/ui/timetable.html)
+- ### [“学生选课”用例](./UseCase/学生选课.md),[界面](https://angwz.github.io/is_analysis/test6/ui/stuselectcourse.html)
+- ### [“学生列表”用例](./UseCase/学生列表.md),[界面](https://angwz.github.io/is_analysis/test6/ui/studentlist.html)
+- ### [“查看课表”用例](./UseCase/查看课表.md),[界面](https://angwz.github.io/is_analysis/test6/ui/sechedules.html)
+- ### [“发布实验”用例](./UseCase/发布实验.md),[界面](https://angwz.github.io/is_analysis/test6/ui/issuetest.html)
+- ### [“实验列表”用例](./UseCase/实验列表.md),[界面](https://angwz.github.io/is_analysis/test6/ui/timetable.html)
+- ### [“上传实验”用例](./UseCase/上传实验.md),[界面](https://angwz.github.io/is_analysis/test6/ui/uptest.html)
+- ### [“评分和维护成绩”用例](./UseCase/评分和维护成绩.md),[界面](https://angwz.github.io/is_analysis/test6/ui/grade.html)
+- ### [“查看成绩”用例](./UseCase/查看成绩.md),[界面](https://angwz.github.io/is_analysis/test6/ui/grade.html)
+- ### [“优秀作品”用例](./UseCase/优秀作品.md),[界面](https://angwz.github.io/is_analysis/test6/ui/issuetest.html)
+- ### [“修改密码”用例](./UseCase/修改密码.md),[界面](https://angwz.github.io/is_analysis/test6/ui/changepwd.html)
+- ### [“修改GitHub信息”用例](./UseCase/修改GitHub信息.md),[界面](https://angwz.github.io/is_analysis/test6/ui/changemes.html)
+- ### [“注销”用例](./UseCase/注销.md),[界面](https://angwz.github.io/is_analysis/test6/ui/logout.html)
 
     
