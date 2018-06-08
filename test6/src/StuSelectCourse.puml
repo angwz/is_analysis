@@ -1,0 +1,10 @@
+@startuml
+actor student
+
+student -> semester:选择学期
+student -> course_name:选择课程
+student -> teacher:选择授课老师
+schedules -> student:学生课程表录入学生选课信息
+
+
+@enduml
