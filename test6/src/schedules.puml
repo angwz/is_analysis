@@ -1,0 +1,13 @@
+@startuml
+actor user
+
+== 教师、学生查看课表 ==
+user -> semester :选择学期
+semester -> timetable:根据用户信息在课程库中查找教师课表
+semester -> schedules:根据用户信息在学生课表中查找学生课表
+timetable -> user:返回用户课表
+schedules -> user:返回用户课表
+
+== 教师、学生查看课表 ==
+@enduml
+
